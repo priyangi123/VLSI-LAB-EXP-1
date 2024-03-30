@@ -21,34 +21,39 @@ STEP:7 compare the output with truth table.
 Logic Diagram :
 
 Logic Gates:
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
+
+<img width="838" alt="LOGIC" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/4ef0e976-4225-4718-8db0-7f63002f5523">
 
 
 Half Adder:
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/0e1ecb96-0c25-4556-832b-aeeedfdfe7b9)
+<img width="809" alt="ha" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/015bb0e6-9ee8-49f5-869e-b359a0d7c77b">
+
 
 
 Full adder:
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/9bb3964c-438f-469d-a3de-c1cca6f323fb)
+<img width="1203" alt="fa (2)" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/cdc753f5-8032-4a31-bcfb-fd73a13ebb36">
+
 
 
 Half Subtractor:
+<img width="785" alt="halfsub" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/0bd68dc2-6231-412c-8968-b6f631f35165">
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/731470b7-eb4e-49f8-8bb7-2994052a7184)
 
 
 
 Full Subtractor:
+<img width="1280" alt="fs" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/082b3e4f-3ba4-4134-95f3-852696b0058d">
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/d66f874b-c1f2-44b3-a035-7149b56430c1)
+
 
 
 
 8 Bit Ripple Carry Adder
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7385a408-40a5-4203-8050-b72818622d79)
+<img width="752" alt="RCA_8" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/ec18ae98-0a61-4314-af03-0debe9fd5319">
+
 
 
 
