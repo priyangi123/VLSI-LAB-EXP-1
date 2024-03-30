@@ -21,38 +21,31 @@ STEP:7 compare the output with truth table.
 Logic Diagram :
 
 Logic Gates:
+![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/4fe42d1d-c46d-48d4-bfbe-57e1f26654b4)
 
-<img width="838" alt="LOGIC" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/4ef0e976-4225-4718-8db0-7f63002f5523">
 
 
 Half Adder:
 
-<img width="809" alt="ha" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/015bb0e6-9ee8-49f5-869e-b359a0d7c77b">
+![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/99779024-41fc-4eda-a9e8-a6e1f4a18f3f)
 
 
 
 Full adder:
 
-<img width="1203" alt="fa (2)" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/cdc753f5-8032-4a31-bcfb-fd73a13ebb36">
-
+![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/d12912a7-0d70-4b99-8dfa-b6addce54289)
 
 
 Half Subtractor:
-<img width="785" alt="halfsub" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/0bd68dc2-6231-412c-8968-b6f631f35165">
-
-
-
+![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/756c5ce4-fcb8-41a3-9ef9-cf1cc4102829)
 
 Full Subtractor:
-<img width="1280" alt="fs" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/082b3e4f-3ba4-4134-95f3-852696b0058d">
-
-
-
-
+![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/ea5ad8fe-0a7c-423e-9fa4-f026a94b7ac8)
 
 8 Bit Ripple Carry Adder
 
-<img width="752" alt="RCA_8" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/ec18ae98-0a61-4314-af03-0debe9fd5319">
+![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/a1caae96-8c04-4a88-a298-c9c60fe7e4bb)
+
 
 
 
@@ -197,28 +190,33 @@ endmodule
 OUTPUT:
 
 LOGIC GATES:
-![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/eda9ff28-2da1-4987-9532-df8e3921c3ff)
+<img width="838" alt="LOGIC" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/4ef0e976-4225-4718-8db0-7f63002f5523">
 
 HALF ADDER:
 
-![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/2e1f2cf2-76d5-48a2-b5b9-5201c05ddcca)
+<img width="809" alt="ha (1)" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/bb43a856-8a94-4d17-a1c3-7dd65fca1478">
+
 
 FULL ADDER:
 
-![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/5b92cbaf-4bbe-480a-b2b9-d0e878f2be73)
+<img width="1203" alt="fa (2)" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/cdc753f5-8032-4a31-bcfb-fd73a13ebb36">
+
 
 HALF SUBTRACTOR:
 
-![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/62aeddbf-7685-4a2b-bce1-cef520fea6d3)
+<img width="785" alt="halfsub" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/0bd68dc2-6231-412c-8968-b6f631f35165">
+
+
 
 FULL SUBTRACTOR:
 
-![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/0e8ccb95-b89d-4a9b-8d90-40a6cc30ad92)
+<img width="1280" alt="fs" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/082b3e4f-3ba4-4134-95f3-852696b0058d">
+
 
 
 8 BIT RIPPLE CARRY ADDER:
 
-![image](https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/71bbdc5c-7996-4f55-baec-62281286a7d2)
+<img width="752" alt="RCA_8" src="https://github.com/priyangi123/VLSI-LAB-EXP-1/assets/165141104/ec18ae98-0a61-4314-af03-0debe9fd5319">
 
 
 
